@@ -1,28 +1,8 @@
-== README
+Jimmy Kwon CIS 196 Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Heroku Link: 
+http://stormy-mesa-5906.herokuapp.com/
+ 
+I had an issue downloading the whole package since I'm running on Mac Mavericks. After looking around on the web I figured out how to do it. Jenny helped me with the last few steps, particularly pushing to Heroku and figuring out how everything links together. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Looking forward to the class this semester! 
